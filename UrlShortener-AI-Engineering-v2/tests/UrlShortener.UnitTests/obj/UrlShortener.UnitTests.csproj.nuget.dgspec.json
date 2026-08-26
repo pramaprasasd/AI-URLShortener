@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\my computer\\Downloads\\UrlShortener-AI-Engineering-v2\\tests\\UrlShortener.UnitTests\\UrlShortener.UnitTests.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\my computer\\Downloads\\UrlShortener-AI-Engineering-v2\\src\\UrlShortener.Application\\UrlShortener.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\my computer\\Downloads\\UrlShortener-AI-Engineering-v2\\src\\UrlShortener.Application\\UrlShortener.Application.csproj",
+        "projectName": "UrlShortener.Application",
+        "projectPath": "c:\\Users\\my computer\\Downloads\\UrlShortener-AI-Engineering-v2\\src\\UrlShortener.Application\\UrlShortener.Application.csproj",
+        "packagesPath": "C:\\Users\\my computer\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\my computer\\Downloads\\UrlShortener-AI-Engineering-v2\\src\\UrlShortener.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\my computer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "c:\\Users\\my computer\\Downloads\\UrlShortener-AI-Engineering-v2\\src\\UrlShortener.Domain\\UrlShortener.Domain.csproj": {
+                "projectPath": "c:\\Users\\my computer\\Downloads\\UrlShortener-AI-Engineering-v2\\src\\UrlShortener.Domain\\UrlShortener.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.130/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\my computer\\Downloads\\UrlShortener-AI-Engineering-v2\\src\\UrlShortener.Domain\\UrlShortener.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\my computer\\Downloads\\UrlShortener-AI-Engineering-v2\\src\\UrlShortener.Domain\\UrlShortener.Domain.csproj",
+        "projectName": "UrlShortener.Domain",
+        "projectPath": "c:\\Users\\my computer\\Downloads\\UrlShortener-AI-Engineering-v2\\src\\UrlShortener.Domain\\UrlShortener.Domain.csproj",
+        "packagesPath": "C:\\Users\\my computer\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\my computer\\Downloads\\UrlShortener-AI-Engineering-v2\\src\\UrlShortener.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\my computer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.130/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\my computer\\Downloads\\UrlShortener-AI-Engineering-v2\\tests\\UrlShortener.UnitTests\\UrlShortener.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\my computer\\Downloads\\UrlShortener-AI-Engineering-v2\\tests\\UrlShortener.UnitTests\\UrlShortener.UnitTests.csproj",
+        "projectName": "UrlShortener.UnitTests",
+        "projectPath": "c:\\Users\\my computer\\Downloads\\UrlShortener-AI-Engineering-v2\\tests\\UrlShortener.UnitTests\\UrlShortener.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\my computer\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\my computer\\Downloads\\UrlShortener-AI-Engineering-v2\\tests\\UrlShortener.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\my computer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "c:\\Users\\my computer\\Downloads\\UrlShortener-AI-Engineering-v2\\src\\UrlShortener.Application\\UrlShortener.Application.csproj": {
+                "projectPath": "c:\\Users\\my computer\\Downloads\\UrlShortener-AI-Engineering-v2\\src\\UrlShortener.Application\\UrlShortener.Application.csproj"
+              },
+              "c:\\Users\\my computer\\Downloads\\UrlShortener-AI-Engineering-v2\\src\\UrlShortener.Domain\\UrlShortener.Domain.csproj": {
+                "projectPath": "c:\\Users\\my computer\\Downloads\\UrlShortener-AI-Engineering-v2\\src\\UrlShortener.Domain\\UrlShortener.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.11.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.130/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
